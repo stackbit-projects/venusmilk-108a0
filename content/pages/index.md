@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: /images/VenusProduct.png
-    image_alt: App preview
+    image_alt: Sản phẩm của Venus Milk
     title: Venus Milk
     content: >
       Công ty TNHH Dinh Dưỡng Venus Milk - Cung cấp các sản phẩm dinh dưỡng giúp
