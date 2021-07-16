@@ -105,7 +105,9 @@ sections:
     subtitle: Bài viết mới
 seo:
   title: Venus Milk | Công ty TNHH Dinh Dưỡng Venus
-  description: The preview of the Azimuth theme
+  description: >-
+    Chuyên cung cấp các sản phẩm dinh dưỡng hỗ trợ tăng cường sức khoẻ, đề kháng
+    của cơ thể cho mọi lứa tuổi.
   extra:
     - name: 'og:type'
       value: website
