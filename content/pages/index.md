@@ -104,7 +104,7 @@ sections:
     title: Blog
     subtitle: Bài viết mới
 seo:
-  title: Venus Milk
+  title: Venus Milk | Công ty TNHH Dinh Dưỡng Venus
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
