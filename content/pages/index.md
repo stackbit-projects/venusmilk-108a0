@@ -100,7 +100,7 @@ sections:
         style: primary
   - section_id: recent-posts
     type: section_posts
-    background: gray
+    background: white
     title: Blog
     subtitle: Bài viết mới
 seo:
