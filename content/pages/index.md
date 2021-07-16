@@ -104,7 +104,7 @@ sections:
     title: Blog
     subtitle: Bài viết mới
 seo:
-  title: Stackbit Azimuth Theme
+  title: Venus Milk
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
