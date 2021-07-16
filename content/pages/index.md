@@ -102,6 +102,7 @@ sections:
     type: section_posts
     background: gray
     title: Blog
+    subtitle: Bài viết mới
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
