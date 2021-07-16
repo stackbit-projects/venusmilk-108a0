@@ -10,7 +10,7 @@ sections:
       Công ty TNHH Dinh Dưỡng Venus Milk - Cung cấp các sản phẩm dinh dưỡng giúp
       hỗ trợ, tăng cường sức khoẻ.
     actions:
-      - label: Learn More
+      - label: Xem Thêm
         url: /features
         style: primary
   - section_id: features
