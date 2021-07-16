@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Venus Milk
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Công ty TNHH Dinh Dưỡng Venus Milk - Cung cấp các sản phẩm dinh dưỡng giúp
+      hỗ trợ, tăng cường sức khoẻ.
     actions:
       - label: Learn More
         url: /features
